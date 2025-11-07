@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sakinasawal
 - 📱 Jr. Mobile Developer 
-- 📱 Passion in Android and iOS native 
+- 📱 Passion for Mobile Development 
 - 👀 I’m interested in mobile developer | software engineer | software tester
-- 🎓 I’ve done my study in bachelor information technology (hons.) information system engineering
-- 💞️ I’m looking to collaborate on company who want to hire me as mobile developer
-- 📫 You can reach via email nurulsakinasawal@gmail.com
+- 🎓 I’ve done my studies in Bachelor's Information Technology (hons.) Information System Engineering
+- 💞️ I’m looking to collaborate with companies that want to hire me as a  mobile developer
+- 📫 You can reach me via email nurulsakinasawal@gmail.com
 
 <!---
 sakinasawal/sakinasawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
