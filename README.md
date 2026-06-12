@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sakinasawal
-- 📱 Jr. Mobile Developer 
+- 📱 Mobile Developer
 - 📱 Passion for Mobile Development 
 - 👀 I’m interested in mobile developer | software engineer | software tester
 - 🎓 I’ve done my studies in Bachelor's Information Technology (hons.) Information System Engineering
